@@ -1,0 +1,20 @@
+{
+  "name": "composingsoftwarejs",
+  "version": "1.0.0",
+  "description": "Exercises from the book Composing Software by Eric Elliot (https://leanpub.com/composingsoftware)",
+  "main": "1_Introduction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ric-Waltman/ComposingSoftwareJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ric-Waltman/ComposingSoftwareJS/issues"
+  },
+  "homepage": "https://github.com/Ric-Waltman/ComposingSoftwareJS#readme"
+}
